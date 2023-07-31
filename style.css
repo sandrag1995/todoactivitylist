@@ -1,0 +1,32 @@
+body{
+    background-color: #1a1d20;
+}
+
+button{
+    padding: 5px;
+    border-radius: 10px;
+}
+
+.activityList{
+    height: 400px;
+    width: 500px;
+    background-color: #5a6b6c;
+    overflow: scroll;
+    padding: 10px;
+    border: 15px inset gray;
+    border-radius: 20px;
+}
+
+.savedSuggestions{
+    width: 500px;
+    padding: 10px;
+    background-color: #5a6b6c;
+    border: 15px inset gray;
+    border-radius: 20px;
+    overflow: scroll;
+}
+
+.activityCard{
+    padding: 5px;
+    border: 2px solid black;
+}
